@@ -1,5 +1,5 @@
 # Tracker Mainboard
-!(Images/Ensamblaje 700mah 1.png)
+!(Images/Ensamblaje_700mah_1.png)
 
 # WindSlimeVR Tracker Hardware
 
