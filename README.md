@@ -160,7 +160,7 @@ This repository serves as documentation of the hardware development process for 
   <table>
     <tr>
       <td align="center"><a href="https://slimevr.dev/"><img src="Images/SlimeVR-logo.png" alt="SlimeVR" style="max-width: 120px; width: 100%; height: auto;"></a></td>
-      <td align="center"><a href="https://easyeda.com/"><img src="Images/EasyEDA-logo.jpg" alt="EasyEDA" style="max-width: 120px; width: 100%; height: auto;"></a></td>
+      <td align="center"><a href="https://easyeda.com/"><img src="Images/EasyEDA-logo.png" alt="EasyEDA" style="max-width: 120px; width: 100%; height: auto;"></a></td>
       <td align="center"><a href="https://www.autodesk.com/products/inventor/overview"><img src="Images/autodesk-inventor-logo.png" alt="Autodesk Inventor" style="max-width: 120px; width: 100%; height: auto;"></a></td>
       <td align="center"><a href="https://platformio.org/"><img src="Images/PlatformIO-logo.png" alt="PlatformIO" style="max-width: 120px; width: 100%; height: auto;"></a></td>
     </tr>
