@@ -1,10 +1,10 @@
 # Tracker Mainboard
 
-Estas imágenes muestran la versión **A (flash externo / 6 pines)** de la placa principal (no CH340). El PCB es el mismo en ambos casos, solo cambia la sección de conexión de carga/flash y el ancho de la tarjeta.
+These images show version **A (external flash / 6 pins)** of the main board (not CH340). The PCB is the same in both cases; only the charging/flash connection section and the board width differ.
 
 <div align="center">
 
-| Ensamblaje | Vista superior | Vista inferior |
+| Assembly | Component view | Other view |
 |---|---|---|
 | ![Mainboard assembly](Images/Ensamblaje_700mah_1.png) | ![Mainboard top view](Images/Ensamblaje%20700mah%202.png) | ![Mainboard underside](Images/Ensamblaje%20700mah%203.png) |
 
@@ -112,21 +112,23 @@ These components were designed to ensure comfort, durability, and stable sensor 
 
 Estas fotos muestran el montaje del tracker en el strap retráctil y cómo queda anclado al cuerpo.
 
-![Strap assembly 1](Images/IMG_20260311_213031.jpg)
-![Strap assembly 2](Images/IMG_20260311_213044.jpg)
+![Strap assembly 1](Images/IMG_20260311_213044.jpg)
+![Strap assembly 2](Images\IMG_20260311_213229.jpg)
 
 ## External flasher module
 
 El flasher externo sirve para programar y depurar la placa cuando se usa la versión con flash externo (6 pines). Se conecta a la placa principal vía cable plano.
 
-![External flasher](Images/IMG_20260311_213211.jpg)
+![External flasher 1](Images\IMG_20260311_213333.jpg)
+![External flasher 1](Images\IMG_20260311_213317.jpg)
 
 ## Dimensions (approx.)
 
-- Tracker board: **~XX mm × YY mm** (incluye conectores)
-- Enclosure: **~AA mm × BB mm × CC mm**
+- Tracker box: **35.9 mm × 46.5 mm x 16.1 mm**
 
-(Actualizar con medidas reales según el diseño de PCB/3D.)
+| X Side | Y Side | Z Side |
+|---|---|---|
+| ![side 1](Images\IMG_20260311_213151.jpg) | ![side 2](Images\IMG_20260311_213211.jpg) | ![side 3](Images\IMG_20260311_213423.jpg) |
 
 ---
 
@@ -135,11 +137,11 @@ El flasher externo sirve para programar y depurar la placa cuando se usa la vers
 This project demonstrates experience in:
 
 - Embedded hardware design
-- PCB layout and routing
+- PCB layout and routing (EasyEDA)
 - IMU sensor integration
-- Embedded system architecture
+- Embedded system architecture (Arduino and SlimeVR software)
 - Hardware prototyping
-- 3D mechanical design
+- 3D mechanical design (Autodesk Inventor)
 - Product-oriented hardware development
 
 ---
