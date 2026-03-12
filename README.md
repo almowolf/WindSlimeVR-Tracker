@@ -1,3 +1,6 @@
+# Tracker Mainboard
+!(Images/Ensamblaje 700mah 1.png)
+
 # WindSlimeVR Tracker Hardware
 
 Hardware development and system design for **WindSlimeVR**, a custom full-body tracking solution for VR environments.
