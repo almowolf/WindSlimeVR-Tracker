@@ -1,5 +1,14 @@
 # Tracker Mainboard
-!(Images/Ensamblaje_700mah_1.png)
+
+Estas imágenes muestran la versión **A (flash externo / 6 pines)** de la placa principal (no CH340). El PCB es el mismo en ambos casos, solo cambia la sección de conexión de carga/flash y el ancho de la tarjeta.
+
+<div align="center">
+
+| Ensamblaje | Vista superior | Vista inferior |
+|---|---|---|
+| ![Mainboard assembly](images/Ensamblaje_700mah_1.png) | ![Mainboard top view](images/Ensamblaje%20700mah%202.png) | ![Mainboard underside](images/Ensamblaje%20700mah%203.png) |
+
+</div>
 
 # WindSlimeVR Tracker Hardware
 
@@ -94,6 +103,30 @@ The trackers are paired with custom mechanical components including:
 - Compact mounting system for body attachment
 
 These components were designed to ensure comfort, durability, and stable sensor positioning during VR use.
+
+---
+
+# Assembly & Measurements
+
+## Strap / mount assembly
+
+Estas fotos muestran el montaje del tracker en el strap retráctil y cómo queda anclado al cuerpo.
+
+![Strap assembly 1](images/IMG_20260311_213031.jpg)
+![Strap assembly 2](images/IMG_20260311_213044.jpg)
+
+## External flasher module
+
+El flasher externo sirve para programar y depurar la placa cuando se usa la versión con flash externo (6 pines). Se conecta a la placa principal vía cable plano.
+
+![External flasher](images/IMG_20260311_213211.jpg)
+
+## Dimensions (approx.)
+
+- Tracker board: **~XX mm × YY mm** (incluye conectores)
+- Enclosure: **~AA mm × BB mm × CC mm**
+
+(Actualizar con medidas reales según el diseño de PCB/3D.)
 
 ---
 
